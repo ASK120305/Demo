@@ -1,2 +1,2 @@
-# Demo
-This is a demo repo 
+# Prime numbers
+A simple code to find the number of prime numbers between the range of two numbers.
